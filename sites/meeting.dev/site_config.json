@@ -1,0 +1,14 @@
+{
+ "db_name": "bcad64afbf268a6a",
+ "db_password": "hYlKkMB91CrrAzUC",
+ "developer_mode": 1,
+ "host_name": "http://meeting.dev:8000",
+ "limits": {
+  "space_usage": {
+   "backup_size": 1.0,
+   "database_size": 4.94,
+   "files_size": 2.0,
+   "total": 7.94
+  }
+ }
+}

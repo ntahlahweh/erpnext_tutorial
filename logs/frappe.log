@@ -1,0 +1,1245 @@
+[DEBUG] 2020-04-20 12:24:01,536 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:25:01,657 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:25:01,685 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:26:02,173 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:26:02,204 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:27:02,331 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:27:02,357 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:28:02,879 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:28:03,006 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:29:03,151 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:29:03,174 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:30:03,911 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:30:04,192 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:31:04,866 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:31:04,886 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:32:05,106 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:32:05,218 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:33:05,348 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:33:05,374 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:34:05,505 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:34:05,533 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:35:05,674 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:35:05,704 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:36:05,917 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:36:06,010 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:37:06,143 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:37:06,170 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:38:06,288 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:38:06,307 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:39:06,463 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:39:06,493 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:40:06,714 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:40:06,809 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:41:06,943 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:41:06,972 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:42:07,116 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:42:07,155 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:43:07,307 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:43:07,332 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:44:07,782 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:44:07,912 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:45:08,044 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:45:08,072 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:46:08,202 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:46:08,227 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:47:08,347 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:47:08,365 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:48:08,574 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:48:08,667 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:49:08,797 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:49:08,822 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2020-04-20 12:49:43,830 | /home/ntah/frappe-bench/apps/frappe/frappe/app.py:
+Site: meeting.dev
+Form Dict: {
+ "cmd": "meeting.api.get_meetings",
+ "doctype": "Meeting",
+ "end": "2020-05-10 00:00:00",
+ "field_map": "{\"start\":\"start\",\"end\":\"end\",\"id\":\"name\",\"title\":\"title\",\"status\":\"status\"}",
+ "filters": "[]",
+ "start": "2020-03-29 00:00:00"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/app.py", line 61, in application
+    response = frappe.handler.handle()
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/ntah/frappe-bench/apps/meeting/meeting/api.py", line 42, in get_meetings
+    }, as_dict=True)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/database.py", line 199, in sql
+    self._cursor.execute(query, values)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'false\n        from `tabMeeting`\n        where `date` between '2020-03-29 00:00:0' at line 7")
+[ERROR] 2020-04-20 12:49:44,228 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/app.py", line 61, in application
+    response = frappe.handler.handle()
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/ntah/frappe-bench/apps/meeting/meeting/api.py", line 42, in get_meetings
+    }, as_dict=True)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/database.py", line 199, in sql
+    self._cursor.execute(query, values)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'false\n        from `tabMeeting`\n        where `date` between '2020-03-29 00:00:0' at line 7")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2020-04-20 12:50:08,940 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:50:08,965 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:51:09,101 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:51:09,126 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:52:09,343 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:52:09,439 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:53:09,775 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:53:09,803 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:54:09,934 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:54:09,961 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:55:10,092 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:55:10,118 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:56:10,327 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:56:10,431 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:57:10,576 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:57:10,601 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:58:10,844 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:58:10,859 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 12:59:10,991 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 12:59:11,022 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:00:11,279 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:00:11,462 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:01:11,604 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:01:11,630 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:02:11,769 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:02:11,795 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:03:11,934 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:03:11,959 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:04:12,197 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:04:12,302 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:05:12,436 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:05:12,470 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:06:12,579 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:06:12,598 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:07:12,729 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:07:12,753 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:08:12,935 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:08:13,029 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:09:13,160 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:09:13,185 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:10:13,316 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:10:13,340 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:11:13,473 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:11:13,499 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:12:13,725 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:12:13,818 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:13:13,951 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:13:13,974 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:14:14,111 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:14:14,140 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:15:14,274 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:15:14,298 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:16:14,484 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:16:14,591 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:17:14,723 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:17:14,752 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2020-04-20 13:17:56,075 | /home/ntah/frappe-bench/apps/frappe/frappe/app.py:
+Site: meeting.dev
+Form Dict: {
+ "cmd": "meeting.api.get_meetings",
+ "doctype": "Meeting",
+ "end": "2020-05-10 00:00:00",
+ "field_map": "{\"start\":\"start\",\"end\":\"end\",\"id\":\"name\",\"title\":\"title\",\"status\":\"status\"}",
+ "filters": "[]",
+ "start": "2020-03-29 00:00:00"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/app.py", line 61, in application
+    response = frappe.handler.handle()
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/ntah/frappe-bench/apps/meeting/meeting/api.py", line 42, in get_meetings
+    }, as_dict=True)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/database.py", line 199, in sql
+    self._cursor.execute(query, values)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from `tabMeeting`\n        where `date` between '2020-03-29 00:00:00' and '2020-0' at line 8")
+[ERROR] 2020-04-20 13:17:56,445 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/app.py", line 61, in application
+    response = frappe.handler.handle()
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/ntah/frappe-bench/apps/meeting/meeting/api.py", line 42, in get_meetings
+    }, as_dict=True)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/database.py", line 199, in sql
+    self._cursor.execute(query, values)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'from `tabMeeting`\n        where `date` between '2020-03-29 00:00:00' and '2020-0' at line 8")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2020-04-20 13:18:14,874 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:18:14,898 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:19:15,019 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:19:15,058 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:20:15,243 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:20:15,337 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 13:21:15,516 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 13:21:15,586 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:10:00,400 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:10:00,822 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:11:00,933 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:11:00,962 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:12:01,288 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:12:01,499 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:13:01,698 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:13:01,732 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:14:01,877 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:14:01,914 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:15:02,047 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:15:02,075 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:16:02,296 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:16:02,397 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:17:02,534 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:17:02,560 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:18:02,693 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:18:02,718 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:19:02,860 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:19:02,904 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:20:03,129 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:20:03,226 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:21:03,366 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:21:03,394 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:22:03,522 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:22:03,546 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:23:03,682 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:23:03,707 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:24:04,746 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:24:04,934 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:25:05,067 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:25:05,088 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2020-04-20 16:25:55,407 | /home/ntah/frappe-bench/apps/frappe/frappe/app.py:
+Site: meeting.dev
+Form Dict: {
+ "cmd": "meeting.api.get_meetings",
+ "doctype": "Meeting",
+ "end": "2020-05-10 00:00:00",
+ "field_map": "{\"start\":\"start\",\"end\":\"end\",\"id\":\"name\",\"title\":\"title\",\"status\":\"status\"}",
+ "filters": "[]",
+ "start": "2020-03-29 00:00:00"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/app.py", line 61, in application
+    response = frappe.handler.handle()
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/ntah/frappe-bench/apps/meeting/meeting/api.py", line 42, in get_meetings
+    }, as_dict=True)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/database.py", line 199, in sql
+    self._cursor.execute(query, values)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'all-day\n        from `tabMeeting`\n        where `date` between '2020-03-29 00:00' at line 7")
+[ERROR] 2020-04-20 16:25:55,735 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: startswith first arg must be str or a tuple of str, not bytes
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/app.py", line 61, in application
+    response = frappe.handler.handle()
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 21, in handle
+    data = execute_cmd(cmd)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/handler.py", line 56, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/__init__.py", line 1036, in call
+    return fn(*args, **newargs)
+  File "/home/ntah/frappe-bench/apps/meeting/meeting/api.py", line 42, in get_meetings
+    }, as_dict=True)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/database.py", line 199, in sql
+    self._cursor.execute(query, values)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/ntah/frappe-bench/env/lib/python3.5/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'all-day\n        from `tabMeeting`\n        where `date` between '2020-03-29 00:00' at line 7")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/ntah/frappe-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    if type(value)==str and value.startswith(b"u'"):
+TypeError: startswith first arg must be str or a tuple of str, not bytes
+[DEBUG] 2020-04-20 16:26:05,259 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:26:05,299 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:27:05,408 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:27:05,428 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:28:05,662 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:28:05,814 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:29:05,937 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:29:05,961 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:30:06,106 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:30:06,134 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:31:06,269 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:31:06,313 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:32:06,531 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:32:06,638 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:33:06,743 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:33:06,760 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:34:06,896 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:34:06,932 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:35:07,057 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:35:07,085 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:36:07,306 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:36:07,402 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:37:07,540 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:37:07,566 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:38:07,695 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:38:07,719 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:39:07,876 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:39:07,900 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:40:08,125 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:40:08,222 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:41:08,371 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:41:08,387 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:42:08,510 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:42:08,535 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:43:08,680 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:43:08,705 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:44:08,935 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:44:09,046 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:45:09,175 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:45:09,199 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:46:09,655 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:46:09,681 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:47:09,813 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:47:09,839 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:48:10,050 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:48:10,170 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:49:10,312 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:49:10,341 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:50:10,471 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:50:10,500 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:51:10,691 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:51:10,717 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:52:11,331 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:52:11,427 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:53:11,539 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:53:11,555 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:54:12,055 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:54:12,076 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:55:12,287 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:55:12,340 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:56:12,734 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:56:12,888 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:57:13,876 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:57:13,905 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:58:14,325 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:58:14,351 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 16:59:14,485 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 16:59:14,511 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:00:14,767 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:00:14,983 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:01:15,121 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:01:15,147 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:02:15,275 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:02:15,293 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:03:15,431 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:03:15,474 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:04:15,700 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:04:15,832 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:05:15,968 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:05:15,994 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:06:16,115 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:06:16,133 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:07:16,265 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:07:16,292 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:08:16,475 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:08:16,573 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:09:16,699 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:09:16,720 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:10:16,873 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:10:16,899 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:11:17,025 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:11:17,043 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:12:17,257 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:12:17,377 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:13:17,501 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:13:17,525 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:14:17,658 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:14:17,684 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:15:17,803 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:15:17,829 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:16:18,337 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:16:18,554 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:17:18,686 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:17:18,716 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-04-20 17:18:19,259 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-04-20 17:18:19,296 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 19:15:40,919 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 19:15:42,730 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 19:16:45,438 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 19:16:45,445 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 19:17:46,199 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 19:17:46,332 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 19:18:46,918 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 19:18:46,924 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 19:19:47,638 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 19:19:47,644 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 22:56:11,761 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 22:56:11,969 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 22:57:12,059 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 22:57:12,065 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 22:58:12,163 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 22:58:12,174 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 22:59:12,270 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 22:59:12,280 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:00:12,462 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:00:12,600 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:01:12,689 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:01:12,700 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:02:12,801 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:02:12,815 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:03:12,970 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:03:12,982 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:04:13,118 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:04:13,148 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:05:13,223 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:05:13,228 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:06:13,332 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:06:13,341 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:07:13,880 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:07:13,887 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:08:14,053 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:08:14,128 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:09:14,215 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:09:14,224 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:10:14,448 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:10:14,461 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:11:14,545 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:11:14,558 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:12:14,688 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:12:14,755 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:13:14,838 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:13:14,854 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:14:14,946 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:14:14,958 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:15:15,703 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:15:15,716 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:16:15,840 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:16:15,874 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:17:16,090 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:17:16,121 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:18:16,205 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:18:16,212 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:19:16,324 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:19:16,330 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:20:16,556 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:20:16,607 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:21:16,710 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:21:16,726 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:22:16,832 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:22:16,846 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:23:16,954 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:23:16,968 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:24:17,112 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:24:17,175 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:25:17,268 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:25:17,280 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:26:17,374 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:26:17,384 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:27:17,485 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:27:17,491 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:28:17,978 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:28:18,013 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:29:18,118 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:29:18,125 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-06-14 23:30:18,229 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: meeting.dev
+Queued events for site meeting.dev
+[DEBUG] 2020-06-14 23:30:18,236 | /home/ntah/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
